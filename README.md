@@ -3,8 +3,8 @@
 🚀**Developer | Embedded Systems | Arduino & C#**
 🇧🇷 Brazil
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderlan79-maker)](https://github.com/wanderlan79-maker/github-readme-stats)
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wanderlan79-maker&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/wanderlan79-maker/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=wanderlan79-maker&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/wanderlan79-maker/github-readme-stats#gh-light-mode-only)
 
 
 <div style="display: inline_block"><br>
