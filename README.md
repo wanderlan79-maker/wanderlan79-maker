@@ -23,10 +23,11 @@
 
 ### 📂 Projetos em Destaque
 
-#### 🌿 Estufa Automatizada de Baixo Custo
+#### 🌿 [Estufa Automatizada de Baixo Custo] (https://github.com/wanderlan79-maker/estufa-automatizada-mnr)
 - *Descrição:* Sistema inteligente para monitoramento e controle de umidade, temperatura e luminosidade em plantios agrícolas.
 - *Destaque:* Artigo científico aprovado e publicado na *Mostra Nacional de Robótica (MNR) 2025*.
 - *Tecnologias:* Arduino, Sensores Analógicos/Digitais e C++.
+- *Documentos:* [📄 Ver Artigo Científico](https://github.com/wanderlan79-maker/estufa-automatizada-mnr/blob/main/MNR2025_Artigo_Final_ (1))
 
 #### 👓 Dispositivo Vestível de Auxílio Visual
 - *Descrição:* Tecnologia assistiva desenvolvida para auxiliar a locomoção de pessoas com deficiência visual.
