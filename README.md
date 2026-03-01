@@ -26,7 +26,7 @@
 
   <img align="center" alt="Wanderlan-C" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
   
-  <img align="center" alt="Wanderlan-Arduino"  height="30" width="40" src=" https://devicon-website.vercel.app/api/arduino/original-wordmark.svg">
+  <img align="center" alt="Wanderlan-Arduino"  height="30" width="40" src=" http://content.arduino.cc/brand/arduino-color.svg">
  
  
 
