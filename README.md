@@ -16,7 +16,9 @@
 
 
 <div style="display: inline_block"><br>
- 
+
+  <img align="center" alt="wan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   
   <img align="center" alt="Wanderlan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <img align="center" alt="Wanderlan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -24,8 +26,8 @@
   <img align="center" alt="Wanderlan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
   <img align="center" alt="Wanderlan-C" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
-  
-  <img align="center" alt="Wanderlan-Arduino"  height="30" width="40" src=" http://content.arduino.cc/brand/arduino-color.svg">
+ 
+  <img align="center" alt="Wanderlan-Arduino"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
  
  
 
