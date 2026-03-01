@@ -3,15 +3,7 @@
 🚀**Developer | Embedded Systems | Arduino & C#**
 🇧🇷 Brazil
 
-<div>
-
-<a href="https://github.com/wanderlan79-maker">
-
- <img height="188em" src="https://github-readme-stats.vercel.app/api?username-wanderlan79-maker&show_icons-trueßtheme-draculašinclude_all_commits-true&count private-true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-wanderlan79-maker&layout-compact&langs_count-16&theme-dracula"/>
-
-</div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderlan79-maker)](https://github.com/wanderlan79-maker/github-readme-stats)
 
 
 
