@@ -27,7 +27,7 @@
 - *Descrição:* Sistema inteligente para monitoramento e controle de umidade, temperatura e luminosidade em plantios agrícolas.
 - *Destaque:* Artigo científico aprovado e publicado na *Mostra Nacional de Robótica (MNR) 2025*.
 - *Tecnologias:* Arduino, Sensores Analógicos/Digitais e C++.
-- *Documentos:* [📄 Ver Artigo Científico](https://github.com/wanderlan79-maker/estufa-automatizada-mnr/blob/main/MNR2025_Artigo_Final_ (1))
+- *Documentos:* [📄 Ver Artigo Científico](https://github.com/wanderlan79-maker/Estufa-automatizada-mnr/blob/main/Artigo_MNR_2025.pdf)
 
 #### 👓 Dispositivo Vestível de Auxílio Visual (https://github.com/wanderlan79-maker/dispositivo-vestivel-acessibilidade)
 - *Descrição:* Tecnologia assistiva desenvolvida para auxiliar a locomoção de pessoas com deficiência visual.
