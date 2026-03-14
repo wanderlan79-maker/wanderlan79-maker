@@ -34,7 +34,7 @@
 - *Funcionamento:* Utiliza sensores ultrassônicos e feedback sensorial para detecção de obstáculos em tempo real.
 - *Foco:* Acessibilidade e inclusão social através da eletrônica.
 - *Documentação:* - [📄 Resumo e Identificação do Projeto](https://github.com/wanderlan79-maker/dispositivo-vestivel-acessibilidade/blob/main/Resumo_Executivo_Wanderlan_Andrade.pdf)
-- [📄 Artigo Técnico Completo](https://github.com/wanderlan79-maker/dispositivo-vestivel-acessibilidade/blob/main/Artigo_Completo_Dispositivo_Vestivel.pdf)
+- [📄 Artigo Técnico Completo](https://raw.githubusercontent.com/wanderlan79-maker/Estufa-automatizada-mnr/main/Artigo_MNR_2025.pdf)
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
