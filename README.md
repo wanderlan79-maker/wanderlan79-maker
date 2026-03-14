@@ -29,11 +29,12 @@
 - *Tecnologias:* Arduino, Sensores Analógicos/Digitais e C++.
 - *Documentos:* [📄 Ver Artigo Científico](https://github.com/wanderlan79-maker/estufa-automatizada-mnr/blob/main/MNR2025_Artigo_Final_ (1))
 
-#### 👓 Dispositivo Vestível de Auxílio Visual
+#### 👓 Dispositivo Vestível de Auxílio Visual (https://github.com/wanderlan79-maker/dispositivo-vestivel-acessibilidade)
 - *Descrição:* Tecnologia assistiva desenvolvida para auxiliar a locomoção de pessoas com deficiência visual.
 - *Funcionamento:* Utiliza sensores ultrassônicos e feedback sensorial para detecção de obstáculos em tempo real.
 - *Foco:* Acessibilidade e inclusão social através da eletrônica.
-
+- *Documentação:* - [📄 Resumo e Identificação do Projeto](https://github.com/wanderlan79-maker/dispositivo-vestivel-acessibilidade/blob/main/Resumo_Executivo_Wanderlan_Andrade.pdf)
+- [📄 Artigo Técnico Completo](https://github.com/wanderlan79-maker/dispositivo-vestivel-acessibilidade/blob/main/Artigo_Completo_Dispositivo_Vestivel.pdf)
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
