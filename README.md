@@ -8,7 +8,7 @@
 ### 📝 Sobre Mim
 - 🎓 *Estudante de Informática (3º Ano)* no IFPA - Campus Paragominas.
 - 🏆 *Autor* de artigo científico publicado na *MNR 2025* (Projeto: Estufa Automatizada).
-- 🛠️ *Técnico em Hardware e Infraestrutura:* Experiência prática em manutenção de dispositivos móveis e sistemas de refrigeração.
+- 🛠️ *Técnico em Hardware e Infraestrutura:* Experiência prática em auxilio em manutenção de dispositivos móveis e sistemas de refrigeração.
 
 ---
 
