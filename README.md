@@ -33,7 +33,7 @@
 - *Descrição:* Tecnologia assistiva desenvolvida para auxiliar a locomoção de pessoas com deficiência visual.
 - *Funcionamento:* Utiliza sensores ultrassônicos e feedback sensorial para detecção de obstáculos em tempo real.
 - *Foco:* Acessibilidade e inclusão social através da eletrônica.
-- *Documentação:* - [📄 Resumo e Identificação do Projeto](https://github.com/wanderlan79-maker/dispositivo-vestivel-acessibilidade/blob/main/Resumo_Executivo_Wanderlan_Andrade.pdf)
+- *Documentação:* - [📄 Resumo e Identificação do Projeto](https://github.com/wanderlan79-maker/dispositivo-vestivel-acessibilidade/blob/main/TEMPLATE%20MIEPEX%20OFICIAL.docx.pdf)
 - [📄 Artigo Técnico Completo](https://github.com/wanderlan79-maker/dispositivo-vestivel-acessibilidade/blob/main/Artigo_Completo_Dispositivo_Vestivel.pdf)
 ---
 
